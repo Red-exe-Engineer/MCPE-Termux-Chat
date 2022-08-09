@@ -1,7 +1,7 @@
 # Created by Wallee#8314/Red-exe-Engineer
 
 # Imports
-from mcpi.minecraft import Miencraft
+from mcpi.minecraft import Minecraft
 from os import system
 
 # Clear the screen
